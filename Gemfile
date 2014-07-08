@@ -32,6 +32,7 @@ gem 'spring',        group: :development
 gem 'httparty'
 gem 'json'
 gem 'nokogiri'
+gem "minitest"
 
 group :development, :test do
   gem 'ffaker'

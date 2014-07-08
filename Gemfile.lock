@@ -196,6 +196,7 @@ DEPENDENCIES
   jquery-rails
   json
   launchy
+  minitest
   nokogiri
   pg
   pry-rails
