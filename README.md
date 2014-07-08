@@ -1,4 +1,0 @@
-duckduckgo-scraper
-==================
-
-DuckDuckGo Scraper
