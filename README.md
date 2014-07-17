@@ -1,7 +1,7 @@
 #DuckDuckGo Scraper
 ### Overview
 
-**DuckDuckGo Scraper** is an application that takes a search string as input and returns a list of results scraped fromduckduckgo.com.
+**DuckDuckGo Scraper** is an application that takes a search string as input and returns a list of results scraped from http://www.duckduckgo.com.
 
 ### Technologies Used
 
