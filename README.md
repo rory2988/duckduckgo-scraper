@@ -7,7 +7,6 @@
 
 * Ruby 2.1.0
 * Ruby on Rails 4.0.3
-* PostgreSQL Database
 * Gems including Nokogiri(http://nokogiri.org/) to parse HTML and HTTParty(https://github.com/jnunemaker/httparty) to retrieve data over HTTP.
 * Testing technologies including Rspec & Capybara
 
