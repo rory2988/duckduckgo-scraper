@@ -35,15 +35,11 @@ gem 'nokogiri'
 gem "minitest"
 
 group :development, :test do
-  gem 'ffaker'
   gem 'pry-rails'
   gem 'rspec-rails', '~>3.0.0.beta2'
   gem 'capybara'
   gem 'shoulda-matchers'
-  gem 'factory_girl_rails'
-  gem 'jasmine'
   gem 'simplecov'
-  gem 'launchy'
   gem "capybara-webkit"
 end
 

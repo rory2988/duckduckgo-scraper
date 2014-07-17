@@ -1,28 +1,15 @@
-== README
+#DuckDuckGo Scraper
+### Overview
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**DuckDuckGo Scraper** is an application that takes a search string as input and returns a list of results scraped fromduckduckgo.com.
 
-Things you may want to cover:
+### Technologies Used
 
-* Ruby version
+* Ruby 2.1.0
+* Ruby on Rails 4.0.3
+* PostgreSQL Database
+* Gems including Nokogiri(http://nokogiri.org/) to parse HTML and HTTParty(https://github.com/jnunemaker/httparty) to retrieve data over HTTP.
+* Testing technologies including Rspec & Capybara
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+---
+###### Written by Rory Budnick

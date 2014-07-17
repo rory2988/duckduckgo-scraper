@@ -1,0 +1,42 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/rorybudnick/dev/duckduckgo_scraper/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/rorybudnick/dev/duckduckgo_scraper/app/controllers/welcome_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/rorybudnick/dev/duckduckgo_scraper/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/rorybudnick/dev/duckduckgo_scraper/app/controllers/search_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1405610375
+  }
+}

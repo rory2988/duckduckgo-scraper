@@ -2,9 +2,9 @@ require 'spec_helper'
 
 describe 'a user can search for a keyword' do
 
-  it "will add a hospital to favorites" do
+  it "will return search results" do
     visit "/"
-    fill_in "search_text", with: "jibe"
+    fill_in "search_term", with: "jibe"
     click_button "Search"
 
     expect(page).to have_content "Search Results List"
